@@ -1,19 +1,17 @@
 <div class="container portfolio-container">
-  <h3>{{ site.portfolio_title | default: "Portfolio" }}</h3>
+  <h3>{{ site.portfolio_title | default: "portfolio" }}</h3>
   {% for portfolio in site.data.portfolio %}
     <div class="row clearfix portfolio">
       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
-        <h4 class="name">
-          {%- if portfolio.link -%}
-            <a href="http://{{ portfolio.link }}" target="_blank">
-          {%- endif -%}
-            {{ portfolio.name }}
-          {%- if portfolio.link -%}
-            </a>
-          {%- endif -%}
-          </h4>
-        <p><b>{{ portfolio.role }}</b></p>
-        <p>{{ portfolio.dates }}</p>
+        <h4>{{ portfolio.name }}</h4>
+        {%- if portfolio.link -%}
+          <a href="http://{{ portfolio.link }}" target="_blank" class="portfolio-link">{{ portfolio.link }}</a>
+        {%- endif -%}
+        <p class="no-print">
+          <a href="https://github.com/{{ portfolio.github }}" target="_blank">
+            <i class="fa fa-github" title="{{ portfolio.name }} Github link"></i>
+          </a>
+        </p>
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
         {%- if portfolio.quote -%}
