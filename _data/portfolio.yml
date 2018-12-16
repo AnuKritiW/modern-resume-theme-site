@@ -15,6 +15,8 @@
   # quote: >
   #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
+
+
     *Transit* is a short 3 minute film my team, consisting of 4 members, and I wrote, filmed and submitted for a 52 hour film competition 'Point and Shoot 2018'. I was the producer and editor for this film.
 
     Transit was also given an Honourable Mention at the Frameworks Film Festival 2018.
@@ -25,7 +27,9 @@
     *The Dark Web* was a play staged at the National Library by USP Productions. I was the Stage Manager for this production and oversaw stage lights, sounds and visual effects.
 
 - name: Reminisce
-  youtubeLink: www.youtube.com/embed/VZDq8WlfLgo
+  youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/VZDq8WlfLgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   description: |
+
+
     *Reminisce* was the first film I made after attending NUStudios' semester long film school. I was the Sound designer and editor for this film.
     Reminisce won best film in NUStudios' Film School 2017 final showcase, and is also showcased in their showreel (https://youtu.be/MeqgPsVpwuI).
