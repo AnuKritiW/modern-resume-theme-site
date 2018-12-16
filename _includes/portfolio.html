@@ -1,25 +1,25 @@
-<div class="container experience-container">
+<div class="container portfolio-container">
   <h3>{{ site.portfolio_title | default: "Portfolio" }}</h3>
-  {% for experience in site.data.experience %}
-    <div class="row clearfix experience">
+  {% for portfolio in site.data.portfolio %}
+    <div class="row clearfix portfolio">
       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
         <h4 class="name">
-          {%- if experience.link -%}
-            <a href="http://{{ experience.link }}" target="_blank">
+          {%- if portfolio.link -%}
+            <a href="http://{{ portfolio.link }}" target="_blank">
           {%- endif -%}
-            {{ experience.company }}
-          {%- if experience.link -%}
+            {{ portfolio.company }}
+          {%- if portfolio.link -%}
             </a>
           {%- endif -%}
           </h4>
-        <p><b>{{ experience.job_title }}</b></p>
-        <p>{{ experience.dates }}</p>
+        <p><b>{{ portfolio.job_title }}</b></p>
+        <p>{{ portfolio.dates }}</p>
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
-        {%- if experience.quote -%}
-          <p class="quote">{{ experience.quote }}</p>
+        {%- if portfolio.quote -%}
+          <p class="quote">{{ portfolio.quote }}</p>
         {%- endif -%}
-        {{ experience.description | strip | markdownify }}
+        {{ portfolio.description | strip | markdownify }}
       </div>
     </div>
   {% endfor %}
