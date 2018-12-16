@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 experience_title: Experience
 
 #Portfolio Section
-portfolio_title: Portfolio
+# portfolio_title: Portfolio
 
 # More Section
 more_title: When I'm not Programming
