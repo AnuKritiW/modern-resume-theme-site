@@ -8,7 +8,8 @@
           <a href="http://{{ project.link }}" >{{ project.link }}</a>
         {%- endif -%}
         {%- if project.youtubeLink -%}
-          <iframe width="280" height="157.5" src="http://{{ project.youtubeLink }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>{{ project.youtubeLink }}</iframe>
+          <a href="{{ project.youtubeLink }}">{{ project.link }}</a>
+          <!-- <iframe width="280" height="157.5" src="http://{{ project.youtubeLink }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>{{ project.youtubeLink }}</iframe> -->
         {%- endif -%}
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
