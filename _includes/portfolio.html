@@ -8,7 +8,7 @@
           <a href="http://{{ project.link }}" >{{ project.link }}</a>
         {%- endif -%}
         {%- if project.youtubeLink -%}
-          <a href={{ project.youtubeLink }}>{{ project.youtubeLink }}</a>
+          <iframe src={{ project.youtubeLink }}>{{ project.youtubeLink }}</iframe>
           <!-- <iframe width="280" height="157.5" src="http://{{ project.youtubeLink }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>{{ project.youtubeLink }}</iframe> -->
         {%- endif -%}
       </div>
