@@ -47,19 +47,18 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # Experience Section
-experience_title: Experience
+# experience_title: Experience
 
 #Portfolio Section
-portfolio_title: Portfolio
+# portfolio_title: Portfolio
 
 # More Section
 more_title: When I'm not Programming
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  When I'm not in classes, or working on any school film or theatre productions,
+  I enjoy watching films at local film festivals, or even just in my room on Netlix.
+  I also enjoy listening to music and playing the drums. During longer breaks, I try
+  to attend courses and workshops (e.g. courses in DJing, workshop for colour grading, etc.).
 
 # Footer
 footer_show_references: true

@@ -7,12 +7,12 @@
           {%- if portfolio.link -%}
             <a href="http://{{ portfolio.link }}" target="_blank">
           {%- endif -%}
-            {{ portfolio.company }}
+            {{ portfolio.name }}
           {%- if portfolio.link -%}
             </a>
           {%- endif -%}
           </h4>
-        <p><b>{{ portfolio.job_title }}</b></p>
+        <p><b>{{ portfolio.role }}</b></p>
         <p>{{ portfolio.dates }}</p>
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
