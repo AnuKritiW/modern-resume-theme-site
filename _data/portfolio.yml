@@ -1,6 +1,6 @@
 - name: The Boring Company
-  link: boringcompany.com
-  # github: sproogen/resume-theme
+  link: https://www.youtube.com/watch?v=M3lsDXYmo-M
+  youtube: https://www.youtube.com/watch?v=M3lsDXYmo-M
   quote: >
     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs

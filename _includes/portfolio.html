@@ -1,23 +1,23 @@
-<div class="container portfolio-container">
-  <h3>{{ site.portfolio_title | default: "portfolio" }}</h3>
-  {% for portfolio in site.data.portfolio %}
-    <div class="row clearfix portfolio">
+<div class="container projects-container">
+  <h3>{{ site.portfolio_title | default: "Portfolio" }}</h3>
+  {% for project in site.data.portfolio %}
+    <div class="row clearfix project">
       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
-        <h4>{{ portfolio.name }}</h4>
-        {%- if portfolio.link -%}
-          <a href="http://{{ portfolio.link }}" target="_blank" class="portfolio-link">{{ portfolio.link }}</a>
+        <h4>{{ project.name }}</h4>
+        {%- if project.link -%}
+          <a href="http://{{ project.link }}" target="_blank" class="project-link">{{ project.link }}</a>
         {%- endif -%}
         <p class="no-print">
-          <a href="https://github.com/{{ portfolio.github }}" target="_blank">
-            <i class="fa fa-github" title="{{ portfolio.name }} Github link"></i>
+          <a href="https://youtube.com/{{ project.youtube }}" target="_blank">
+            <i class="fa fa-youtube" title="{{ project.name }} Youtube link"></i>
           </a>
         </p>
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
-        {%- if portfolio.quote -%}
-          <p class="quote">{{ portfolio.quote }}</p>
+        {%- if project.quote -%}
+          <p class="quote">{{ project.quote }}</p>
         {%- endif -%}
-        {{ portfolio.description | strip | markdownify }}
+        {{ project.description | strip | markdownify }}
       </div>
     </div>
   {% endfor %}
