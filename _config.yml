@@ -46,11 +46,11 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
-# Experience Section
-experience_title: Theatre
+# Portfolio Section
+experience_title: Portfolio
 
 # More Section
-# more_title: When I'm not Programming
+more_title: When I'm not Programming
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Climbing
