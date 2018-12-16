@@ -1,0 +1,26 @@
+<div class="container experience-container">
+  <h3>{{ site.portfolio_title | default: "Portfolio" }}</h3>
+  {% for portfolio in site.data.portfolio %}
+    <div class="row clearfix portfolio">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4 class="name">
+          {%- if portfolio.link -%}
+            <a href="http://{{ portfolio.link }}" target="_blank">
+          {%- endif -%}
+            {{ portfolio.name }}
+          {%- if portflio.link -%}
+            </a>
+          {%- endif -%}
+          </h4>
+        <p><b>{{ portfolio.role }}</b></p>
+        <p>{{ portfolio.dates }}</p>
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {%- if portfolio.quote -%}
+          <p class="quote">{{ portfolio.quote }}</p>
+        {%- endif -%}
+        {{ portfolio.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
