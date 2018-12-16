@@ -28,21 +28,29 @@ about_content: | # this will include new lines to allow paragraphs
 
   I intend to focus in Computer Graphics, Artificial Intelligence and Information Retrieval. I also have experience film-making and theatre productions.
 
-  The things that I currently have the most experience working with are <mark>Java</mark>, <mark>C++</mark> and <mark>OpenGL</mark>. 
+  The things that I currently have the most experience working with are 
+  <mark>Java</mark>, 
+  <mark>C++</mark>, 
+  <mark>OpenGL</mark> and 
+  <mark>JavaScript</mark>. 
 
-  I also have experience with <mark>Film and Stage Direction</mark>, <mark>Screenwriting and Playwriting</mark>, <mark>post-production for film</mark> and <mark>Technical Stage Management</mark>.
+  I also have experience with 
+  <mark>Film and Stage Direction</mark>, 
+  <mark>Screenwriting and Playwriting</mark>, 
+  <mark>post-production for film</mark> and 
+  <mark>Technical Stage Management</mark>.
 
 # Projects Section
 # projects_title: Projects
 
-# Experience Section
-# experience_title: Experience
-
 # Education Section
 # educaton_title: Education
 
+# Experience Section
+# experience_title: Experience
+
 # More Section
-# more_title: A Little More About Me
+# more_title: When I'm not Programming
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Climbing
