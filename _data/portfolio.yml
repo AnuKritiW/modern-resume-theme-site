@@ -1,6 +1,6 @@
 - name: Transit
-  # link: <iframe width="560" height="315" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  link: www.youtube.com/watch?v=M3lsDXYmo-M
+  link: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  # link: www.youtube.com/watch?v=M3lsDXYmo-M
   quote: >
     Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
