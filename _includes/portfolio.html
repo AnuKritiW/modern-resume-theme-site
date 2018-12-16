@@ -5,9 +5,10 @@
       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
         <h4>{{ project.name }}</h4>
         {%- if project.link -%}
+          <a href="http://{{ project.link }}" >{{ project.link }}</a>
+        {%- endif -%}
+        {%- if project.youtubeLink -%}
           <iframe width="280" height="157.5" src="http://{{ project.link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>{{ project.link }}</iframe>
-          <!-- link: www.youtube.com/watch?v=M3lsDXYmo-M -->
-          <!-- <a href="http://{{ project.link }}" >{{ project.link }}</a> -->
         {%- endif -%}
         <!-- <p class="no-print">
           <a href="https://youtube.com/{{ project.youtube }}" target="_blank">
