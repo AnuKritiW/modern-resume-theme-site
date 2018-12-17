@@ -1,19 +1,19 @@
 - name: Happy Birthday
   description: |
-    *Happy Birthday* is a film by nuStudios, set to shoot in early January 2019. I am the Assistant Director on the project.
+    *Happy Birthday* is a film by nuStudios, set to shoot in early January 2019. I am the <mark>Assistant Director</mark> on the production.
 
 - name: Sixty-One
   link: www.instagram.com/sixtyone.usprods/
   description: |
-    *Sixty-One* is a play I am directing as part of USP Productions. This play will be performed in late January 2019 at the National Library.
+    *Sixty-One* is a play put up by USP Productions. I am the <mark>director</mark> of the production. This play will be performed in late January 2019 at the National Library.
     Sixty-One explores the issue of accountability, as we follow an AI robot who has been accused of a crime.
 
 - name: Reverie
   link: https://goo.gl/YnyvPe
   youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/videoseries?list=PLIvCK4-LwSbLwfnBCKLD2YMnytlhn4n9z" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   description: |
-    *Reverie* is a 37-minute film I directed for the USP Freshman Orientation Camp. The film was split into two parts, Renaissance and Reminisce, and was screened in a series of clips over the course of two camps.
-    In addition to directing, I was also a screenwriter, editor and colorist.
+    *Reverie* is a 37-minute film made for USP Freshman Orientation Camp. The film was split into two parts, Renaissance and Reminisce, and was screened in a series of clips over the course of two camps.
+    I was the <mark>director</mark>, <mark>screenwriter</mark>, <mark>editor</mark> and <mark>colorist</mark> on the production.
 
 - name: Transit
   link: youtu.be/M3lsDXYmo-M
@@ -21,18 +21,18 @@
   # quote: >
   #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    *Transit* is a short 3 minute film my team, comprising 3 friends and I, wrote, filmed and submitted for a 52 hour film competition 'Point and Shoot 2018'. I was the producer and editor for this film.
+    *Transit* is a short 3 minute film my team, comprising 3 friends and I, wrote, filmed and submitted for a 52 hour film competition 'Point and Shoot 2018'. I was the <mark>producer</mark> and <mark>editor</mark> for this film.
 
     Transit was also given an [Honourable Mention at the Frameworks Film Festival 2018](https://www.frameworksfilmfestival.com/honourable-mentions).
 
 - name: The Dark Web
   link: https://usprodsthedarkweb.weebly.com/
   description: |
-    *The Dark Web* was a play staged at the National Library by USP Productions in Febuary 2018. I was the Stage Manager for this production and oversaw stage lights, sounds and visual effects.
+    *The Dark Web* was a play staged at the National Library by USP Productions in Febuary 2018. I was the <mark>Stage Manager</mark> for this production and oversaw stage lights, sounds and visual effects.
 
 - name: Reminisce
   link: youtu.be/VZDq8WlfLgo
   youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/VZDq8WlfLgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   description: |
-    *Reminisce* was the first film I made after attending nuStudios' semester long film school. I was the Sound designer and editor for this film.
+    *Reminisce* was the first film I made after attending nuStudios' semester long film school. I was the <mark>sound designer</mark> and <mark>editor</mark> for this film.
     Reminisce won best film in nuStudios' Film School 2017 final showcase, and is also showcased in their [showreel](https://youtu.be/MeqgPsVpwuI).
