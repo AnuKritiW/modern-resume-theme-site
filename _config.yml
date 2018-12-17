@@ -56,10 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: In my spare time
 more_content: | # this will include new lines to allow paragraphs
-  When I'm not in classes, or working on any school film or theatre productions,
-  I enjoy watching films at local film festivals, or even just in my room on Netlix.
-  I also enjoy listening to music and playing the drums. During longer breaks, I try
-  to attend courses and workshops (e.g. courses in DJing, workshop for colour grading, etc.).
+  Watching reruns of *Gilmore Girls* and *Friends* are a staple for how I spend my free time. But, in addition to streaming shows and films on netflix, music is an essential daily need - listening and playing. I play the drums and DJ occassionally.
+
+  Currently, I am also trying to pick up <mark>Maya</mark> and <mark>Houdini</mark> by taking an online course for each of the softwares on Udemy.
 
 # Footer
 footer_show_references: true
