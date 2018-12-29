@@ -12,8 +12,8 @@
     supervising the technical crew. I also produced some of the VFX clips for the performance.
 
 - name: Reverie
-  link: ![Reverie](https://goo.gl/YnyvPe)
-  # youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/videoseries?list=PLIvCK4-LwSbLwfnBCKLD2YMnytlhn4n9z" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  link: https://goo.gl/YnyvPe
+  youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/videoseries?list=PLIvCK4-LwSbLwfnBCKLD2YMnytlhn4n9z" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   description: |
     *Reverie* is a 37-minute film made for NUS USP Freshman Orientation Camp. The film was split into two parts, Renaissance and Reminisce, and was screened in a series of clips over the course of two camps.
     I was the <mark>Director</mark>, <mark>Screenwriter</mark>, <mark>Editor</mark> and <mark>Colorist</mark> on the production.
@@ -22,8 +22,8 @@
     created a shot-list, edited the script, edited the film and colored the shots.
 
 - name: Transit
-  link: youtu.be/M3lsDXYmo-M
-  youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  link: ![transit](youtu.be/M3lsDXYmo-M)
+  # youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/M3lsDXYmo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   # quote: >
   #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
