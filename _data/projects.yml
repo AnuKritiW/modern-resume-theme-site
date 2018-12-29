@@ -4,4 +4,5 @@
 #   quote: >
 #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    These are some of my OpenGL projects.
+    I have made a few projects using OpenGL which cover topics such as animation, illumination and shading, bezier curves and ray tracing.
+    These projects can be found on my github page, along with demo gifs.
