@@ -13,7 +13,7 @@
 
 - name: Reverie
   link: https://goo.gl/YnyvPe
-  youtubeLink: <div> <iframe width="280" height="157.5" src="https://www.youtube.com/embed/videoseries?list=PLIvCK4-LwSbLwfnBCKLD2YMnytlhn4n9z" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+  youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/videoseries?list=PLIvCK4-LwSbLwfnBCKLD2YMnytlhn4n9z" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   description: |
     *Reverie* is a 37-minute film made for NUS USP Freshman Orientation Camp. The film was split into two parts, Renaissance and Reminisce, and was screened in a series of clips over the course of two camps.
     I was the <mark>Director</mark>, <mark>Screenwriter</mark>, <mark>Editor</mark> and <mark>Colorist</mark> on the production.
