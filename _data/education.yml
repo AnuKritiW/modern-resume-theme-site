@@ -4,7 +4,7 @@
 #  quote: >
 #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-   Key courses I have taken at NUS include Computer Graphics (CS3241). I will be taking Introduction to Artificial Intelligence (CS3243), Introduction to Media Computing (CS2108), Information Retrieval (CS3245), and a playwriting module (UAR2208) in the coming semester in early 2019.
+   Key courses I have taken at NUS include Computer Graphics (CS3241), Introduction to Artificial Intelligence (CS3243), Introduction to Media Computing (CS2108), Information Retrieval (CS3245), and a playwriting module (UAR2208).
 
    I am a member of USP Productions, a theatre group which publically stages an annual production. I am also a member of nuStudios, which is a film club.
   # I am directing a play as part of *USP Productions*, titled *Sixty-One*, which will be performed in late Jan 2019 at the National Library. I learnt the my technical stage skills, such as stage lighting, sounds and visual effects, as a Stage Manager for USP Productions' 2018 play titled *'The Dark Web'*.
@@ -13,12 +13,11 @@
 
 - name: Stanford University
   dates: Jun 2019 - Aug 2019
-  qualification: Computer Science
+  qualification:  + Computer Science Intensive + International Honors' Program (IHP)
 #  quote: >
 #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-   Student in the International Honors' Program (IHP).
-   Taking classes Design and Analysis of Algorithms (CS161) & Principles of Computer Systems (CS110)
+   Courses I am taking over my summer at Stanford University are Design and Analysis of Algorithms (CS161) & Principles of Computer Systems (CS110)
   # I am directing a play as part of *USP Productions*, titled *Sixty-One*, which will be performed in late Jan 2019 at the National Library. I learnt the my technical stage skills, such as stage lighting, sounds and visual effects, as a Stage Manager for USP Productions' 2018 play titled *'The Dark Web'*.
 
   # I am also a member of the NUS film club, *nuStudios*, and attended their semester long *film school*, where I attended weekly workshops to learn the different aspects of film-making.
