@@ -1,12 +1,9 @@
-# - company: PAP Community Foundation Centre
-#   # link: boringcompany.com
-#   job_title: Lesson Planner, Tutor, Volunteer
-#   dates: January 2017 - June 2018
-#   # quote: >
-#   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-#   description: | # this will include new lines to allow paragraphs
-#     I volunteered at a local community foundation center to teach underpriviledged students, aged 7-13, computing.
-#     I am especially proud of a course I developed and led, teaching young students (ages 7 to 10) higher order thinking through film. The course was titled HOTShots.
-#
-#     In addition to this, I planned a course on Machine Learning, after which the students (ages 10 to 12) participated in a hackathon.
-#     I have also tutored in various other courses which taught the students things such as Scratch and Robotics.
+- company: Quantum Inventions, a subsidiary of Continental
+  # link: boringcompany.com
+  job_title: Graphics Engineer Intern and Vlogger
+  dates: May 2019 - June 2019
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Graphics Engineer Intern at Quantum Inventions, a subsidiary of Continental.
+    Wrote line simplification algorithms for roads and buildings on a map, in C++ on Android Studio.
