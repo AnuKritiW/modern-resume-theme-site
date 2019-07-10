@@ -1,4 +1,4 @@
-- name: OpenGL projects
+- name: OpenGL projects (C++)
   link: github.com/AnuKritiW/OpenGL-projects
   github: AnuKritiW/OpenGL-projects
 #   quote: >
@@ -6,3 +6,28 @@
   description: | # this will include new lines to allow paragraphs
     I have made a few projects using OpenGL which cover topics such as animation, illumination and shading, bezier curves and ray tracing.
     These projects can be found on my github page, along with demo gifs.
+
+- name: Artificial Intelligence Poker Player (Python)
+  # link: github.com/AnuKritiW/OpenGL-projects
+  # github: AnuKritiW/OpenGL-projects
+#   quote: >
+#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Developed a poker player for modified version of Limit Texas Hold'em.
+    Implemented novel heuristics, and trained agent using reinforcement learning.
+
+- name: Audio Steganography (Matlab)
+  # link: github.com/AnuKritiW/OpenGL-projects
+  # github: AnuKritiW/OpenGL-projects
+#   quote: >
+#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Embedded alphanumeric messages into a music file and decoded the message from the file.
+
+- name: Information Retrieval Engine (Python)
+  # link: github.com/AnuKritiW/OpenGL-projects
+  # github: AnuKritiW/OpenGL-projects
+#   quote: >
+#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Developed an engine to retrieve documents (in a legal corpus), in order of relevance, given a query.
