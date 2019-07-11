@@ -4,7 +4,7 @@
 #   quote: >
 #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I developed OpenGL projects covering animation, illumination and shading, bezier curves and ray tracing.
+    Developed OpenGL projects covering animation, illumination and shading, bezier curves and ray tracing.
 
 - name: Artificial Intelligence Poker Player (Python)
   # link: github.com/AnuKritiW/OpenGL-projects
@@ -12,7 +12,7 @@
 #   quote: >
 #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I developed a poker player for modified version of Limit Texas Hold'em, implementing novel heuristics, and trained the agent using reinforcement learning.
+    Developed a poker player for modified version of Limit Texas Hold'em, implementing novel heuristics, and trained the agent using reinforcement learning.
 
 - name: Audio Steganography (Matlab)
   # link: github.com/AnuKritiW/OpenGL-projects
@@ -20,7 +20,7 @@
 #   quote: >
 #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I developed an steganography application which embeds text messages into a music file for secure message transfer.
+    Developed an steganography application which embeds text messages into a music file for secure message transfer.
 
 - name: Information Retrieval Engine (Python)
   # link: github.com/AnuKritiW/OpenGL-projects
@@ -28,4 +28,4 @@
 #   quote: >
 #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I developed a search engine application for text-based retrieval.
+    Developed a search engine application for text-based retrieval.
