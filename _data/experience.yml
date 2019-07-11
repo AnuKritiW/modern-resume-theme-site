@@ -6,4 +6,4 @@
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     I worked as a Graphics Engineer Intern at Quantum Inventions, a subsidiary of Continental (Singapore).
-    I developed line simplification algorithms for roads and buildings on a map, in C++ on Android Studio.
+    I developed line simplification algorithms for map rendering, in C++ on Android Studio.
