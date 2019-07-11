@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Anu Kriti Wadhwa
-title: Student | BComp (Computer Science) + University Scholars' Programme (USP)
+title: BComp (Computer Science) + University Scholars' Programme (USP)
 university: School of Computing (SoC), National University of Singapore (NUS)
 email: anu.kriti.wadhwa@u.nus.edu
 website: anukritiw.github.io
@@ -27,9 +27,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Anu and I'm a rising Junior, studying Computer Science at the School of Computing (SoC) at the National University of Singapore (NUS). I am also studying in a parallel academic programme, the University Scholars' Programme (USP) at NUS.
 
-  I intend to focus in Computer Graphics, Artificial Intelligence and Information Retrieval. I also have experience film-making and theatre productions.
+  I intend to focus in Computer Graphics, Artificial Intelligence and Information Retrieval. I'm also extremely passionate about and have experience in film-making and theatre productions.
 
-  The tools I have experience working with are
+  The tools I am proficient in are
   <mark>Java</mark>,
   <mark>C++</mark>,
   <mark>OpenGL</mark>,
@@ -38,13 +38,13 @@ about_content: | # this will include new lines to allow paragraphs
   <mark> HTML & CSS</mark>, and
   <mark>C</mark>.
 
-  I also have experience with
+  I'm also competent in
   <mark>Film and Stage Direction</mark>,
   <mark>Screenwriting and Playwriting</mark>,
   <mark>Post-production for film</mark> and
   <mark>Stage Management</mark>.
 
-  Currently, in my free time, I have set out to pick up <mark>Maya</mark> and <mark>Houdini</mark>.
+  Currently, I am learning <mark>Maya</mark> and <mark>Houdini</mark>.
 
 # Projects Section
 # projects_title: Projects
