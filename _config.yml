@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>OpenGL</mark>,
   <mark>JavaScript</mark>,
   <mark>Python</mark>,
-  <mark> HTML & CSS</mark>, and
+  <mark> HTML & CSS</mark>,
   <mark>C</mark>.
 
   I'm also competent in
@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Post-production for film</mark> and
   <mark>Stage Management</mark>.
 
-  Currently, I am learning <mark>Maya</mark> and <mark>Houdini</mark>.
+  Currently, I am learning <mark>Maya</mark>.
 
 # Projects Section
 # projects_title: Projects
