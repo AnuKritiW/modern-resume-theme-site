@@ -35,6 +35,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.gitlab_username -%}
+          <li>
+            <a target="_blank" href="https://gitlab.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-gitlab" title="Gitlab link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.instagram_username -%}
           <li>
             <a target="_blank" href="https://www.instagram.com/{{ site.instagram_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
