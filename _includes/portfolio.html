@@ -11,9 +11,9 @@
           <a href={{ project.youtubeLink }}>{{ project.youtubeLink }}</a>
           <!-- <iframe width="280" height="157.5" src="http://{{ project.youtubeLink }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>{{ project.youtubeLink }}</iframe> -->
         {%- endif -%}
-        {%- if site.about_profile_image -%}
+        {%- if project.about_profile_image -%}
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})" />
+            <span class="profile-img" style="background-image: url({{ project.about_profile_image | relative_url }})" />
           </div>
         {%- endif -%}
       </div>
