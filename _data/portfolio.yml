@@ -13,6 +13,7 @@
 
 - name: Sixty-One
   # link: www.instagram.com/sixtyone.usprods/
+  image: images/sixtyOne.jpg
   description: |
     *Sixty-One* is a play by USP Productions. I was the <mark>Director</mark> on the production and led a cast and crew of 50 members.
     This play was be staged for the public for 3 nights in late January 2019. Sixty-One explores the issue of accountability, as we follow an AI robot who has been accused of a crime.
@@ -44,7 +45,7 @@
 
 - name: The Dark Web
   # link: https://usprodsthedarkweb.weebly.com/
-  about_profile_image: images/darkWeb.jpg
+  image: images/darkWeb.jpg
   description: |
     *The Dark Web* is a play by USP Productions. I was the <mark>Stage Manager</mark> of the production.
     This play was staged for the public for 3 nights in February 2018.
