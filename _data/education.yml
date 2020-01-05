@@ -14,7 +14,7 @@
 #  quote: >
 #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-   I completed a summer semester at Stanford University. The courses I am taking are <mark>Design and Analysis of Algorithms</mark> & <mark>Principles of Computer Systems</mark>.
+   I completed a summer semester at Stanford University. The courses I took were <mark>Design and Analysis of Algorithms</mark> & <mark>Principles of Computer Systems</mark>.
 
 - name: The University of Texas at Austin
   dates: Aug 2019 - Dec 2019
