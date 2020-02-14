@@ -13,5 +13,6 @@
   job_title: Software Engineer Intern
   dates: Jan 2020 - Present
   # quote: >
-  description: |
-  I am currently working as a <mark>Software Engineer Intern</mark> at [Zendesk](https://www.zendesk.com/).
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    I am currently working as a <mark>Software Engineer Intern</mark> at [Zendesk](https://www.zendesk.com/).
