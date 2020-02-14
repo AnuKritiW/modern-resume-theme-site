@@ -5,7 +5,7 @@
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    I worked as a Graphics Engineer Intern at [Quantum Inventions](http://www.quantuminventions.com/), a subsidiary of [Continental AG](https://www.continental.com/en).
+    I worked as a <mark>Graphics Engineer Intern</mark> at [Quantum Inventions](http://www.quantuminventions.com/), a subsidiary of [Continental AG](https://www.continental.com/en).
     I developed Douglas-Peucker, Rheumann-Whitkam and Visvalingam-Whyatt line simplification algorithms for map rendering in C++ on Android Studio.
 
 - company: Zendesk
@@ -14,4 +14,4 @@
   dates: Jan 2020 - Present
   # quote: >
   description: |
-  I am currently working as a Software Engineer Intern at [Zendesk](https://www.zendesk.com/).
+  I am currently working as a <mark>Software Engineer Intern</mark> at [Zendesk](https://www.zendesk.com/).
