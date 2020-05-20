@@ -28,7 +28,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Anu and I'm a Junior, studying Computer Science at the School of Computing (SoC) at the National University of Singapore (NUS). I am also studying in a parallel academic programme, the University Scholars' Programme (USP) at NUS.
 
-  I intend to focus in Computer Graphics, Artificial Intelligence and Information Retrieval. I'm also extremely passionate about and have experience in film-making and theatre productions.
+  I intend to focus in 
+  <mark>Computer Graphics</mark>, 
+  <mark>Artificial Intelligence</mark> and 
+  <mark>Information Retrieval</mark>. 
+  I'm also extremely passionate about and have experience in film-making and theatre productions.
 
   The tools I am proficient in are
   <mark>Java</mark>,
