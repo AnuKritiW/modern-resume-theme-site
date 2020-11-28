@@ -1,27 +1,10 @@
-- name: Static Program Analyser (SPA)
-  # link: github.com/AnuKritiW/OpenGL-projects
-  # github: AnuKritiW/OpenGL-projects
-#   quote: >
-#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Designed, developed and built a medium sized C++ application that statistically analyses and queries program code.
-    Primarily worked on parsing source code, extracting and storing relevant design abstractions, and writing system tests.
-
-- name: Graphics Rendering Techniques (C++)
-  # link: github.com/AnuKritiW/Graphics-Rendering-Techniques
-  github: AnuKritiW/Graphics-Rendering-Techniques
-#   quote: >
-#     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Developed OpenGL (v4.3) projects covering normal, procedural bump, reflection, and projective texture mapping, whitted and distributed ray tracing, and radiosity.
-
 - name: OpenGL projects (C++)
-  # link: github.com/AnuKritiW/OpenGL-projects
+  link: github.com/AnuKritiW/OpenGL-projects
   github: AnuKritiW/OpenGL-projects
 #   quote: >
 #     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Developed OpenGL (v2.1) projects covering animation, illumination and shading, bezier curves and ray tracing.
+    Developed OpenGL projects covering animation, illumination and shading, bezier curves and ray tracing.
 
 - name: Artificial Intelligence Poker Player (Python)
   # link: github.com/AnuKritiW/OpenGL-projects
