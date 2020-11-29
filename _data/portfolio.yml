@@ -12,9 +12,22 @@
 #   description: |
 #     Featured in the USP Corporate video
 
+- name: Maya Demo Reel
+  link: youtu.be/hGXRnT0cl1I
+  youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/hGXRnT0cl1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  description: |
+    Created a demo reel of all the mini-projects I made in the <mark>3D Animation</mark> course I took at University of Texas at Austin. The course was an introduction to <mark>Maya</mark>.
+
+- name: Demo Reel 2019
+  link: youtu.be/RRdj6Z8Yvlk
+  youtubeLink: <iframe width="280" height="157.5" src="https://www.youtube.com/embed/RRdj6Z8Yvlk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  description: |
+    Short demo reel of projects completed before 2019. The demo reel includes clips from the short films *Happy Birthday*, *Reverie*, *Transit* and *Reminisce*, and also some simple OpenGL (v2.1) projects.
+
 - name: Happy Birthday
   description: |
     *Happy Birthday* is a film under nuStudios. I was the <mark>Assistant Director</mark> on the production. It is selected for the [Frameworks Film Festival 2019](https://www.frameworksfilmfestival.com/).
+    Snippets of the film are showcased in the nuStudios 2019 [showreel](https://www.youtube.com/watch?v=i1ZAXPq-T0Q&ab_channel=nuSTUDIOSFilmProductions).
 
 - name: Sixty-One
   # link: www.instagram.com/sixtyone.usprods/
