@@ -84,7 +84,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: anukritiw/modern-resume-theme
+remote_theme: anukritiw/AnuKritiW.github.io
 
 sass:
   sass_dir: _sass
