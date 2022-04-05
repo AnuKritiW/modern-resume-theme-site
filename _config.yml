@@ -26,29 +26,34 @@ gitlab_username: AnuKritiW
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Anu and I'm a Senior, studying Computer Science at the School of Computing (SoC) at the National University of Singapore (NUS). I am also studying in a parallel academic programme, the University Scholars' Programme (USP) at NUS.
+  Hi, I'm Anu and I'm a Software Engineer at Blackmagic Design Singapore. I graduated from the School of Computing (SoC) at the National University of Singapore (NUS) with a Bachelor of Computing (Honours) in Computer Science. I also graduated from a parallel academic programme, the University Scholars' Programme (USP) at NUS.
 
-  I intend to focus in 
+  I graduated with focuses in
   <mark>Computer Graphics</mark>, 
   <mark>Artificial Intelligence</mark> and 
   <mark>Information Retrieval</mark>. 
   I'm also extremely passionate about and have experience in film-making and theatre productions.
 
   The tools I am proficient in are
-  <mark>Java</mark>,
   <mark>C++</mark>,
   <mark>OpenGL</mark>,
-  <mark>JavaScript</mark>,
-  <mark>Python</mark>,
-  <mark> HTML & CSS</mark>, and <mark>C</mark>.
+  and
+  <mark>Python</mark>.
 
-  I'm also competent in
+  I also have experience using
+  <mark>Java</mark>,
+  <mark>JavaScript</mark>,
+  <mark>HTML & CSS</mark>,
+  and
+  <mark>C</mark>.
+
+  I'm competent in
   <mark>Film and Stage Direction</mark>,
   <mark>Screenwriting and Playwriting</mark>,
   <mark>Post-production for film</mark> and
   <mark>Stage Management</mark>.
 
-  I have also recently picked up <mark>Maya</mark>.
+  Lately, I have been learning <mark>Maya</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -59,22 +64,19 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experience
 
+# Media Section
+# media_title: In the Media
+
 #Portfolio Section
 # portfolio_title: Portfolio
 
 # More Section
 more_title: In my spare time
 more_content: | # this will include new lines to allow paragraphs
-  Like most, I spend most of my spare time binging netflix. 
-  I have a list in the triple digits of films, shows and plays I need to watch, podcasts I need to listen to, and books I have to read. 
-  You'd think having a list gives me a goal, but for every item ticked, five more are added.
+  Like most, I spend most of my spare time binging Netflix.
+  I have a list in the triple digits of films, shows and plays I need to watch, podcasts I need to listen to, and books I have to read. My guilty pleasures include *Gilmore Girls*, *Finding Nemo* and *The Lion King*.
 
-  My guilty pleasres include watching reruns of *Gilmore Girls*. I've watched it over more times than I can count and please don't make me pick between Lorelai or Rory (but if you must... Lorelai).
-
-  I like making time for off screen hobbies as well. I've enjoyed folding orgami since I can remember. 
-  I write letters to my friends instead of e-mails cause there's something really nice about receiving a hand-written note.
- 
-  I play the drums, which is pretty fun. I've also learnt how to DJ, though I suppose that probably would involve some screen time.
+  I like making time for off screen hobbies as well. I play the drums, try my best to read habitually, and craft.
 
   But also, I  crave adventure. Usually, adventure takes the form of travel, and I am lucky to have had the opportunity to visit places such as Boston, Paris, London, Thailand, India, China, Australia, and more. I really do hope that I find myself embarking on more grand adventures.
   Mini-adventures within Singapore are also refreshing escapes from the ordinary.

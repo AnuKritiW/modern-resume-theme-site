@@ -24,6 +24,10 @@
                 {%- include projects.html -%}
             {%- endif -%}
 
+            {%- if site.data.media.size > 0 -%}
+            {%- include media.html -%}
+            {%- endif -%}
+
             {%- if site.data.portfolio.size > 0 -%}
                 {%- include portfolio.html -%}
             {%- endif -%}

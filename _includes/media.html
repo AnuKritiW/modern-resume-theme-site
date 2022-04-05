@@ -1,0 +1,28 @@
+<div class="container projects-container">
+  <h3>{{ site.media_title | default: "In the Media" }}</h3>
+  {% for project in site.data.media %}
+    <div class="row clearfix project">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4>{{ project.name }}</h4>
+        {%- if project.link -%}
+          <a href="http://{{ project.link }}" >{{ project.link }}</a>
+        {%- endif -%}
+        {%- if project.youtubeLink -%}
+          <a href={{ project.youtubeLink }}>{{ project.youtubeLink }}</a>
+          <!-- <iframe width="280" height="157.5" src="http://{{ project.youtubeLink }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>{{ project.youtubeLink }}</iframe> -->
+        {%- endif -%}
+        {%- if project.image -%}
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <span class="project-img" style="background-image: url({{ project.image | relative_url }})" />
+          </div>
+        {%- endif -%}
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {%- if project.quote -%}
+          <p class="quote">{{ project.quote }}</p>
+        {%- endif -%}
+        {{ project.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
