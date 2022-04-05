@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Anu Kriti Wadhwa
 title: BComp (Computer Science) + University Scholars' Programme (USP)
 university: School of Computing (SoC), National University of Singapore (NUS)
-email: anu.kriti.wadhwa@u.nus.edu
+email: anu.kriti.w@gmail.com
 website: anukritiw.github.io
 
 # Social links
@@ -20,7 +20,7 @@ linkedin_username: anukritiw
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
-gitlab_username: AnuKritiW
+# gitlab_username: AnuKritiW
 
 # About Section
 # about_title: About Me
@@ -81,7 +81,7 @@ more_content: | # this will include new lines to allow paragraphs
   But also, I  crave adventure. Usually, adventure takes the form of travel, and I am lucky to have had the opportunity to visit places such as Boston, Paris, London, Thailand, India, China, Australia, and more. I really do hope that I find myself embarking on more grand adventures.
   Mini-adventures within Singapore are also refreshing escapes from the ordinary.
 
-  Above all, I really love talking about anything and everything - so, drop me an e-mail :) 
+  Above all, I really love talking about anything and everything - so, drop me an email :)
 # Footer
 footer_show_references: true
 
