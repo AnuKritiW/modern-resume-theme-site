@@ -1,3 +1,13 @@
+- name: 3D Animation (C++)
+  github: AnuKritiW/3D-Animation
+  description: | # this will include new lines to allow paragraphs
+    Implementation of Forward and Inverse Kinematics using OpenGL (v4.3).
+
+- name: 3D Modeling (C++)
+  github: AnuKritiW/3D-Modeling
+  description: | # this will include new lines to allow paragraphs
+    Implementation of many 3D modeling basics using OpenGL (v4.3). Highlights include implementation of Barycentric Subdivision and Mesh Relaxation using Laplacian smoothing.
+
 - name: Static Program Analyser (SPA) (C++)
   # link: github.com/AnuKritiW/OpenGL-projects
   # github: AnuKritiW/OpenGL-projects
